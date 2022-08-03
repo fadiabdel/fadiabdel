@@ -56,7 +56,7 @@
 [twitter]: 
 [youtube]: 
 [instagram]: 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/fadi-a-92082a199/ 
 
 <!--
 **fadiabdelrahim/fadiabdelrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
