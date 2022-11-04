@@ -4,6 +4,7 @@
 
 - <b>TryHackMe</b>
   - [Network Exploitation Basics](https://github.com/fadiabdelrahim/Network-Exploitation-Basics)
+  - [Burp Suite: The Basics] 
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
