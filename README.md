@@ -2,12 +2,22 @@
   
 <h2>🔒 Cybersecurity Projects:</h2>
 
-- <b>Projects</b>
+- <b>Proof of Concept Projects</b>
   - [Harvesting Credentials](https://github.com/fadiabdelrahim/Harvesting-Credentials)
   - [Payload Deployment](https://github.com/fadiabdelrahim/Payload-Deployment)
   - [Keylogger](https://github.com/fadiabdelrahim/Keylogger)
   
+### Languages and Tools
 
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<br />
+
+#
+
+<details>
+<summary><h3> My Cybersecurity Journey</h3></summary>
+  This will explain the journey
+</details>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
