@@ -4,10 +4,15 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
   
 ## 🔒 Cybersecurity Projects:
 
+- **Active Directory Project**
+  - [Active Directory Home Lab]()
+
 - <b>Proof of Concept Projects</b>
   - [Harvesting Credentials](https://github.com/fadiabdelrahim/Harvesting-Credentials)
   - [Payload Deployment](https://github.com/fadiabdelrahim/Payload-Deployment)
   - [Keylogger](https://github.com/fadiabdelrahim/Keylogger)
+  - [MITM Attack](https://github.com/fadiabdelrahim/MITM-Attack)
+  - [Mimikatz](https://github.com/fadiabdelrahim/Mimikatz)
  
 ## 👨‍💻 Software Development Projects:
 
@@ -26,8 +31,7 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
 
 #
 
-<details>
-<summary><h3> My Cybersecurity Journey</h3></summary>
+<details><summary><h3> My Cybersecurity Journey</h3></summary>
   This will explain the journey
 </details>
 
