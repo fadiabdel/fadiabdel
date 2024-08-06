@@ -19,7 +19,7 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
 - <b>Data Structures and Algorithms </b>
   - [Data Structures & Algorithms in Python](https://github.com/fadiabdelrahim/Data-Structures-and-Algorithms-in-Python)
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/fadiabdelrahim/Active-Directory-Bulk-User-Creation)
 - <b>Blockchain</b>
   - [Basic Blockchain Project](https://github.com/fadiabdelrahim/Blockchain)  
 
