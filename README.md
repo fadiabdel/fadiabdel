@@ -32,7 +32,8 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
 #
 
 <details><summary><h3>Certifications</h3></summary>  
-  <img src="images/Microsoft Cybersecurity Analyst Certificate.png">
+  <p align="center"><img src="images/Microsoft Cybersecurity Analyst Certificate.png"></p>
+  <p align="center"><img src="images/COMPTIA SECURITY+ Certificate.jpg"></p>
 </details>
 
 <h2> 🤳 Connect with me:</h2>
