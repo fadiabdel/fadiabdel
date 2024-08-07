@@ -31,8 +31,8 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
 
 #
 
-<details><summary><h3> My Cybersecurity Journey</h3></summary>
-  This will explain the journey
+<details><summary><h3>Certifications</h3></summary>
+  Microsoft Cybersecurity Analyst
 </details>
 
 <h2> 🤳 Connect with me:</h2>
