@@ -6,6 +6,9 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
 
 - **Active Directory Project**
   - [Active Directory Home Lab](https://github.com/fadiabdelrahim/Active-Directory)
+ 
+- **Critical Infrastructure Project**
+  - [SCADA Control Systems Lab](https://github.com/fadiabdelrahim/SCADA-Control-Systems)
 
 - <b>Proof of Concept Projects</b>
   - [Harvesting Credentials](https://github.com/fadiabdelrahim/Harvesting-Credentials)
