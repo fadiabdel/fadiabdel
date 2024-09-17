@@ -4,6 +4,12 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
   
 ## 🔒 Cybersecurity Projects:
 
+- **SOAR-EDR Project**
+  - [SOAR-EDR Project](https://github.com/fadiabdelrahim/SOAR-EDR)
+ 
+- **SOC + Honeynet In Azure Project**
+  - [Building A SOC + Honeynet In Azure](https://github.com/fadiabdelrahim/Building-A-SOC-Honeynet-In-Azure)
+
 - **Active Directory Project**
   - [Active Directory Home Lab](https://github.com/fadiabdelrahim/Active-Directory)
  
