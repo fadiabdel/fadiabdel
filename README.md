@@ -58,6 +58,7 @@ A highly skilled cybersecurity professional with a Master’s degree in Cybersec
 <details><summary><h3>Degree & Certifications</h3></summary> 
   <p align="center"><img src="images/Fadi Abdelrahim Master Degree.png"></p>
   <p align="center"><img src="images/Microsoft Cybersecurity Analyst Certificate.png"></p>
+  <p align="center"><img src="images/Qualys VMDR Certificate.png"></p>
   <p align="center"><img src="images/COMPTIA SECURITY+ Certificate.jpg"></p>
   <p align="center"><img src="images/ISACA membership certificate.png"></p>
   <p align="center"><img src="images/IS-100.C_certificate.png"></p>
