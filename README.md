@@ -1,6 +1,6 @@
 # <div align="center"><br/><a href="https://www.linkedin.com/in/fadi-a-92082a199/">Fadi Abdelrahim</a></div> <div align="center">*Cybersecurity Professional*</div>
 
-A highly skilled cybersecurity professional with a Master’s degree in Cybersecurity and extensive hands-on experience in network security, digital forensics, IT risk management, and ethical hacking. Adept at identifying vulnerabilities, implementing security measures, and conducting thorough security assessments. Strong background in both theoretical and practical aspects of cybersecurity, with a commitment to continuous learning and professional development. 
+ A dedicated cybersecurity professional with a Master’s degree in Cybersecurity and hands-on experience through academic projects and independent learning, including automating threat detection and incident response. Ranked in the top 3% on TryHackMe, demonstrating strong skills in network security, vulnerability management, and incident response. Proficient in industry-standard tools and technologies, with practical experience in penetration testing, IT risk management, and security analysis. Completed coursework aligned with leading industry certifications in cybersecurity fundamentals, vulnerability management, and security analysis. Passionate about cybersecurity, with a commitment to continuous learning and defending against emerging threats.
   
 ## 🔒 Cybersecurity Projects:
 
